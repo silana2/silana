@@ -35,8 +35,8 @@ global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'Lord-official'
 // Other
 global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
+global.owner = ['212695290310']
+global.premium = ['212695290310']
 global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
 global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
 global.sessionName = 'lord'
