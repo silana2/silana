@@ -1,6 +1,6 @@
 /**
    * Created By LoRD.
-   * Contact Me on wa.me/919778383987
+   * Contact Me on wa.me/212695290310
    * Follow https://github.com/Lord-official
 **/
 
